@@ -1,4 +1,4 @@
-# Discord-selfbot-V2
+# Discord-selfbot-final
 
 FR :
 ce bot fonctionne avec Node Js ,
