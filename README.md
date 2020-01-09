@@ -9,3 +9,5 @@ EN:
 this bot works with Node Js,
 This selfbot discord has been designed to equip private personal bot discord users to have the best user experience. Possible to have your token done CRTL + SHIFT + I then go on the unguent Network then send a private message to anybody then you will see aparraitre a box "message" click on it then on the header and look for "authorization: "here is your token
 you do not own a computer? no problems the bot works with the Android application, Dory - node js
+
+  THIS SELFBOT IS FREE CAUSE SOME PEOPLE PAY FOR THE SAME OPTIONS ...
